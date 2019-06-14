@@ -1,0 +1,75 @@
+
+body{
+	
+	font-family: 'Noto Serif', serif;
+}
+.z-depth-4{
+
+  height:400px !important;
+  width:400px !important;
+}
+
+#postsubmit{
+margin-bottom: 10px;
+
+}
+
+#footer_id
+{
+
+  margin-top:100px;
+}
+a.hover_nav:hover, a.hover_nav:active
+    {
+
+        font-size:18px;
+        color:#ccffff;
+    }
+    collection:hover{
+
+color: green;
+    }
+    #mobile-demo {
+
+				color:white;
+			}
+      .search{
+      margin-top: 15px;
+      border: 2px solid orange;
+
+      }
+      .gender{
+
+color: white;
+caret-color: white;
+/* caret-color: red; */
+
+      }
+      .carousel-item{
+        height: 400px;
+        width: 700px;
+      }
+
+
+      .carousel .carousel-item {
+      width:300px !important;
+      /* height:400px !important; */
+
+    }
+.detail{
+  border: 2px solid black;
+}
+
+.tabs .indicator {
+  position: absolute;
+  bottom: 0;
+  height: 0px;
+  background-color: #42d1f4;
+  will-change: left, right;
+}
+.tabs .tab a:focus, .tabs .tab a:focus.active {
+  background-color: transparent;
+}
+.slider{
+  margin-top: 50px;
+}
